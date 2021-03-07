@@ -10,7 +10,7 @@ author: zaklaus
 
 Hi there!
 
-The math module has received a small upgrade in form of a new set of utility functions for partitioning rectangles. We found [Martin Cohen's](https://halt.software/dead-simple-layouts/)  **RectCut** approach very useful for sketching out basic layouts for our apps. Our implementation brings in a new type called `zpl_aabb2`, providing a simple bounding box you can easily cut, contract or extend. We highly recommend to check out the posted link above for the rationale behind this approach.
+The math module has received a small upgrade in form of a new set of utility functions for partitioning rectangles. We found [Martin Cohen's](https://halt.software/dead-simple-layouts/)  **RectCut** approach very useful for sketching out basic layouts for our apps. Our implementation brings in a new type called `zpl_aabb2`, providing a simple bounding box you can easily cut, contract, or extend. We highly recommend checking out the posted link above for the rationale behind this approach.
 
 On top of that, new conversion methods have been made to easily switch between `zpl_rect2` and `zpl_aabb2`, as well as a bunch of utility methods that should help you out getting started!
 
