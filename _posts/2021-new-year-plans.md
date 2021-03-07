@@ -5,7 +5,7 @@ Hi there!
 
 First of all we would like to wish you a lot of luck in this new year!
 
-We haveve prepared the following roadmap for the upcoming months:
+We have prepared the following roadmap for the upcoming months:
 
 We will try to improve and extend the support of various architectures (namely the ARM family) and platforms (iOS, Android, Emscripten, ...) in the zpl library. There is a long journey ahead of us, but hopefully a fun one!
 '
