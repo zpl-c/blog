@@ -1,8 +1,7 @@
 ---
 title: 'Rectangle partitioning in zpl'
 excerpt: "
-The math module has received a small upgrade in form of a new set of utility functions for partitioning rectangles. We found Martin Cohen's RectCut approach very useful for sketching out basic layouts for our apps. Our implementation brings in a new type called `zpl_aabb2`, providing a simple bounding box you can easily cut, contract or extend. We highly recommend to check out the posted link above for the rationale behind this approach.
-"
+The math module has received a small upgrade in form of a new set of utility functions for partitioning rectangles. We found Martin Cohen's RectCut approach very useful for sketching out basic layouts for our apps. Our implementation brings in a new type called zpl_aabb2, providing a simple bounding box you can easily cut, contract or extend."
 coverImage: '/assets/zpl-layouts.png'
 date: '2021-03-07T00:00:00.000Z'
 author: zaklaus
