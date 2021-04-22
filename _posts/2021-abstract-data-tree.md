@@ -5,11 +5,7 @@ excerpt: 'ADT builder allows us to construct data structure trees that are forma
 date: '2021-04-22T17:54:00.000Z'
 author: zaklaus
 ---
-
-# Abstract Data Tree
-
 The **13.1.0** release of [zpl](http://zpl.pw) has arrived and we have some news to share!
-
 We have primarily focused on rewriting our JSON5 module, which allows us to integrate new parsers more easily! Let's get into major changes:
 
 ## The manual builder
